@@ -4,6 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tuconnaisyouknow&color=brightgreen)
 
 <h2>🛠️ Languages and Tools</h2>
+
 <p align="left"> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -101,6 +102,8 @@
 </p>
 
 <h2>📊 My GitHub Stats</h2>
+
+<img align="right" alt="Coding" width="300" src="nerowo-fsociety.gif">
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=tuconnaisyouknow&show_icons=true&theme=tokyonight" style="height: 195px;" />
