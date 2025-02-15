@@ -103,18 +103,18 @@
 
 <h2>📊 My GitHub Stats</h2>
 
-<img align="right" alt="Coding" width="300" src="nerowo-fsociety.gif">
-
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuconnaisyouknow&show_icons=true&theme=tokyonight" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuconnaisyouknow&layout=compact&theme=tokyonight" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuconnaisyouknow&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuconnaisyouknow&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuconnaisyouknow/tuconnaisyouknow/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuconnaisyouknow/tuconnaisyouknow/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tuconnaisyouknow/tuconnaisyouknow/output/github-snake.svg" />
+</picture>
 
 <h2>🌐 Connect with Me</h2>
 <a href="https://www.linkedin.com/in/fabio-del-giudice-youknow/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="40" height="40">
 </a>
-
----
-
-<p>Thanks for visiting my profile! Feel free to connect with me on LinkedIn to discuss anything related to cybersecurity or computer science.</p>
