@@ -44,8 +44,8 @@
 <h2>📊 My GitHub Stats</h2>
 
 <div style="display: flex;">
-  <img src="https://github-stats.fayou.cloud/api?username=tuconnaisyouknow&hide_title=true&hide_rank=true&show_icons=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-stats.fayou.cloud/api/top-langs?username=tuconnaisyouknow&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-stats.fayou.cloud/api?username=tuconnaisyouknow&show_icons=true&theme=rose_pine&hide_border=true&hide_rank=true" height="150" alt="stats graph"  />
+  <img src="https://github-stats.fayou.cloud/api/top-langs?username=tuconnaisyouknow&locale=en&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <picture>
